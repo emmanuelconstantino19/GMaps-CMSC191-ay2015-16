@@ -56,7 +56,7 @@
     </head>
 
     <body>
-    <div id="googleMap" style="width:500px;height:380px;"></div>
+    <div id="googleMap" style="width:1500px;height:1500px;"></div>
     </body>
 </html>
 
